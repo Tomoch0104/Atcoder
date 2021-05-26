@@ -1,3 +1,5 @@
+# 自分の回答
+
 # A,B,W = map(float, input().split())
 
 # W *= 1000
@@ -27,6 +29,7 @@
 #     print("UNSATISFIABLE")
 # else:
 #     print(max_count,min_count)
+
 
 import math
 
